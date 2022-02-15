@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BruceReece.
-- 👀 I’m interested in mobile application development.
-- 🌱 I’m currently learning swift.
+- 👀 I’m interested in mobile application development and entry-level software development.
+- 🌱 I’m currently learning swift and enhancing my skills in java.
 - 💞️ I’m looking to collaborate on anyone.
 - 📫 How to reach me here!
 
